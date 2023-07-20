@@ -5,7 +5,7 @@ import time
 import random
 
 CHROME_DRIVER_PATH = 'C:/Development/chromedriver.exe'
-SIMILAR_ACCOUNT = 'addisalem_getaneh'
+SIMILAR_ACCOUNT = 'target_account'
 USERNAME = 'account'
 PASSWORD ='password' 
 
