@@ -6,8 +6,8 @@ import random
 
 CHROME_DRIVER_PATH = 'C:/Development/chromedriver.exe'
 SIMILAR_ACCOUNT = 'addisalem_getaneh'
-USERNAME = 'habesha__sexy_girls' #
-PASSWORD ='abey272112' #abey272112
+USERNAME = 'account'
+PASSWORD ='password' 
 
 class InstaFollower:
     def __init__(self, path: str):
